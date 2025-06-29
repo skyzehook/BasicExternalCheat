@@ -1,2 +1,2 @@
 # Discord : skyzehook
-using offset only, make basic external cheat.
+using offset only, make external cheat.
